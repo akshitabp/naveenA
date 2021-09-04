@@ -23,4 +23,5 @@
 
 **Sample input and output**
 
-  ![1807034_NAVEEN A](https://user-images.githubusercontent.com/59568640/132097163-4a13ec19-ebb5-4519-80e7-2293b89c23e0.jpeg)
+  ![1807045_SHALINI J](https://user-images.githubusercontent.com/59568640/132097274-d0b0800b-65d4-4655-8207-39e134019dd0.jpeg)
+
